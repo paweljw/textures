@@ -1,6 +1,13 @@
 KRITA = krita
 
-OUTFILES = build/wall/stone.png \
+OUTFILES = \
+					build/wall/stone_corner_bl.png \
+					build/wall/stone_corner_br.png \
+					build/wall/stone_corner_tl.png \
+					build/wall/stone_corner_tr.png \
+					build/wall/stone.png \
+					build/wall/stone_wall_l.png \
+					build/wall/stone_wall_r.png \
 					build/floor/grass.png \
 					build/floor/path_bottom_alt.png \
 					build/floor/path_corner_bottom_left.png \
