@@ -8,6 +8,10 @@ OUTFILES = \
 					build/wall/stone.png \
 					build/wall/stone_wall_l.png \
 					build/wall/stone_wall_r.png \
+					build/wall/stone_end_bl.png \
+					build/wall/stone_end_br.png \
+					build/wall/stone_end_fl.png \
+					build/wall/stone_end_fr.png \
 					build/floor/grass.png \
 					build/floor/path_bottom_alt.png \
 					build/floor/path_corner_bottom_left.png \
